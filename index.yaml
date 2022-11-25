@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  deployer:
+  - apiVersion: v2
+    created: "2022-11-25T12:51:28.041521281Z"
+    description: A Helm chart for deploying API services using Kubernetes
+    digest: c900ef95ac83e1130bb2a34fd5a7bb2b057cb1f0d191b70f4c6a77dde0135279
+    name: deployer
+    type: library
+    urls:
+    - https://github.com/Gamote/charts/releases/download/deployer-0.0.1/deployer-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-11-25T12:51:28.041527981Z"
